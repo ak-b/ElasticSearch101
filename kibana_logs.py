@@ -16,8 +16,6 @@ import json,requests
 from requests.auth import HTTPBasicAuth
 import datetime
 from datetime import datetime
-#import elasticsearch
-#from elasticsearch import ElasticSearch
 import logging
 import re
 import tabulate
