@@ -56,7 +56,7 @@ for num, doc in enumerate(all_hits):
 
 ELASTIC SEACRH QUERY
 ElasticSearch is a great open-source search tool that’s built on Lucene (like SOLR) but is natively JSON + RESTful
-More details can be found: https://wiki.cisco.com/display/AS13445/Elastic+Search
+More details can be found: https://medium.com/@A_kansha/elasticsearch-101-1a59d7da0feb
 
 Throughout {endpoint} refers to the ElasticSearch index type (aka table). 
 Note that ElasticSearch often let’s you run the same queries on both “indexes” (aka database) and types.
